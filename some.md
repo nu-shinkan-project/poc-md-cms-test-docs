@@ -2,8 +2,7 @@
 
 *aaaaa*
 
-aaaaaaaaaabbbbbあああああああｓだｓだｓだｓだｓだ
-
 \*bbbbb\*
 
+main goes faster
 
